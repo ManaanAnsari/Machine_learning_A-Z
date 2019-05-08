@@ -3,4 +3,4 @@
 This repo contains my progress in machine learning 
 
 This repo is the result of udemy course 
-    "https://www.udemy.com/machinelearning/learn/lecture/6682576#overview"
+    "https://www.udemy.com/machinelearning/"
